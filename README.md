@@ -6,7 +6,7 @@ A Theano implementation of the paper "[Improved Training of Wasserstein GANs](ht
 
 [NeuralNet](https://github.com/justanhduc/neuralnet)
 
-## Result
+## Results
 The MNIST images are obtained at iter 20k (the original code runs for 200k). The CIFAR images are generated at iter 18k.
 
 ![MNIST images](https://github.com/justanhduc/Improved-WGAN/blob/master/results/mnist.jpg)
