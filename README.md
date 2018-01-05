@@ -24,6 +24,3 @@ To train WGAN on CIFAR using the current training scheme
 ```
 python train_wgan_cifar.py
 ```
-
-## Credits
-[Lasagne](http://lasagne.readthedocs.io/en/latest/)
